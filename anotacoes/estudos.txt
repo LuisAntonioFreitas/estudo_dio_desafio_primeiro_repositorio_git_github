@@ -1,0 +1,31 @@
+### Principais Objetivos
+
+::: Básico
+[x] Javascript
+[x] Node
+[x] React
+[x] React Native
+
+::: Médio
+[x] Javascript
+[x] Node
+[] React
+[] React Native
+
+::: Avançado
+[] Javascript
+[] Node
+[] React
+[] React Native
+
+
+### Outros Objetivos
+
+::: Básico
+[x] Anguar
+[x] Ruby
+[x] .NET
+[x] Python
+
+::: Médio
+[x] SQL Server
