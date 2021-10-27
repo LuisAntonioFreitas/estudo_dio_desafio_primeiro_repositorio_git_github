@@ -38,6 +38,7 @@ https://github.com/LuisAntonioFreitas/estudo_dio_desafio_primeiro_repositorio_gi
 [Angular 8 Introdução](https://github.com/LuisAntonioFreitas/estudo_angular_course_manager) </br>
 </br>
 <b>Outros</b> </br>
+[Estudo DIO Projeto Flexbox CSS](https://github.com/LuisAntonioFreitas/estudo_dio_projeto_flexbox_css) <br>
 [Estudo DIO API REST Sistema Gerenciamento Pessoas SpringBoot](https://github.com/LuisAntonioFreitas/estudo_dio_api_rest_sistema_gerenciamento_pessoas_springboot) </br>
 [Estudo DIO API REST Testes Unitários Validar Gerenciamento Estoques Cerveja Java](https://github.com/LuisAntonioFreitas/estudo_dio_api_rest_testes_unitarios_validar_gerenciamento_estoques_cerveja_java) </br>
 [Estudo DIO Gerenciador Salas Reuniões Java e Angular](https://github.com/LuisAntonioFreitas/estudo_dio_gerenciador_salas_reunioes_java_angular) </br>
