@@ -20,6 +20,9 @@ https://github.com/LuisAntonioFreitas/estudo_dio_desafio_primeiro_repositorio_gi
 [Estudo DIO API Criptomoedas Javascript](https://github.com/LuisAntonioFreitas/estudo_dio_api_criptomoedas_javascript) </br>
 [Javascript - Jogo da Cobrinha](https://github.com/LuisAntonioFreitas/estudo_javascript_jogo_cobrinha) </br>
 </br>
+<b>Node</b> </br>
+[Estudo DIO Encurtador de URL Node](https://github.com/LuisAntonioFreitas/estudo_dio_encurtador_url_node) </br>
+</br>
 <b>dotNET / C#</b> </br>
 [Estudo DIO Aplicando Design Patterns na Prática em C#](https://github.com/LuisAntonioFreitas/estudo_dio_aplicando_designpatterns_pratica_C) </br>
 [Estudo DIO Desenvolvendo Aplicação C# Usando DDD](https://github.com/LuisAntonioFreitas/estudo_dio_desenvolvendo_aplicacao_C_usando_DDD) </br>
